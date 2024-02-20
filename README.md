@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi! 👋 I'm Arqam.
 
-<!--
-**Cidolf/Cidolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah Mahasiswa di Universitas Negeri Makassar dengan minat dalam perkembangan dunia IT.<br>
 
-Here are some ideas to get you started:
+Sejauh ini, saya dalam tahap mengembangkan keahlian dalam bidang Web Development dan Machine Learning.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meskipun begitu, saya tetap ingin mengeksplorasi hal-hal baru agar ilmu yang saya peroleh dapat bermanfaat bagi banyak orang di masa depan.<br>
+
+- 🌱 Saya dalam tahap pembelajaran Web Development dan Machine Learning
+- 📫 Hubungi saya: arqamscp@gmail.com
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Cidolf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cidolf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cidolf&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/muhammad-arqam-syahputra/">LinkedIn</a>
+- <a href="https://www.instagram.com/arqam.muh/">Instagram</a>
+- arqamscp@gmail.com
+- <a href="https://twitter.com/Dihhkokaquu">Twitter</a>
