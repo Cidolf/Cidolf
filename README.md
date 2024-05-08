@@ -1,10 +1,6 @@
 ### Hi! 👋 I'm Arqam.
 
-Saya adalah Mahasiswa di Universitas Negeri Makassar dengan minat dalam perkembangan dunia IT.<br>
-
-Sejauh ini, saya dalam tahap mengembangkan keahlian dalam bidang Web Development dan Machine Learning.<br>
-
-Meskipun begitu, saya tetap ingin mengeksplorasi hal-hal baru agar ilmu yang saya peroleh dapat bermanfaat bagi banyak orang di masa depan.<br>
+I am a Undergraduate Student of Informatics and Computer Engineering Education at Universitas Negeri Makassar, I am in the stage of developing my skills in the field of Machine Learning and Front-End Web Developer through learning at lectures and also at training/bootcamps. and I excel in skills in programming languages ​​such as JavaScript, HTML, CSS, Python, SQL, and Tensorflow. Even so, I still want to explore new things so that the knowledge I gain can be useful for many people in future industries, especially in the field of Machine Learning or Front-End Web Developer.
 
 - 🌱 Saya dalam tahap pembelajaran Web Development dan Machine Learning
 - 📫 Hubungi saya: arqamscp@gmail.com
