@@ -1,7 +1,5 @@
 # Hi! 👋 I'm Arqam.
 
-</br>
-
 <div align="center">
 <img hight="700" width="1000" alt="GIF" align="center" src="https://github.com/Cidolf/Cidolf/blob/main/assets/WeakCrit.gif">
 </div>
@@ -33,8 +31,6 @@
 
 *************
 
-</br>
-
 <p align="left">
 <a href="https://github.com/Cidolf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cidolf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -43,7 +39,6 @@
 </p>
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
 
 <p align="center">
 
