@@ -1,18 +1,18 @@
 # Hi! 👋 I'm Arqam.
 
+</br>
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="700" width="1000" alt="GIF" align="center" src="https://github.com/Cidolf/Cidolf/blob/main/assets/WeakCrit.gif">
 </div>
 
-</br>
-</br>
 </br>
 
 # About ME 💬 :
 
 ### I am a Undergraduate Student of Informatics and Computer Engineering Education at Universitas Negeri Makassar, I am Machine Learning, Artificial Intelligence & Front-End Web Developer Enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="465" alt="GIF" align="right" src="https://github.com/Cidolf/Cidolf/blob/main/assets/waiting.gif">
 
 ### - Learning :
 - ✨ Convolutional Neural Networks
@@ -77,7 +77,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Cidolf/Cidolf/blob/main/assets/sad.gif">
 
 
 If you ever want to chat about coding and technology, or just hang out and play games together, feel free to ping me anytime! 😉.
