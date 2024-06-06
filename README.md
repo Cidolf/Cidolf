@@ -82,7 +82,7 @@
 
 If you ever want to chat about coding and technology, or just hang out and play games together, feel free to ping me anytime! 😉.
 
-<a href="arqamscp@gmail.com">
+<a href="mailto:arqamscp@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-arqam-syahputra/">
@@ -110,5 +110,5 @@ If you ever want to chat about coding and technology, or just hang out and play 
 </br>
 </a>
  </p>
- 
+
 *************
