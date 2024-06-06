@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### I am a Undergraduate Student of Informatics and Computer Engineering Education at Universitas Negeri Makassar, I am Machine Learning, Artificial Intelligence & Front-End Web Developer Enthusiast.
+### I am an undergraduate student in Informatics and Computer Engineering Education at Universitas Negeri Makassar. I have a keen interest in Machine Learning, Artificial Intelligence, and Front-End Web Development.
 
 <img hight="400" width="465" alt="GIF" align="right" src="https://github.com/Cidolf/Cidolf/blob/main/assets/waiting.gif">
 
